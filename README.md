@@ -1,5 +1,10 @@
 E-Library Management System
 
+Demo credentials : for Login
+
+Email : lokeshinde500@gmail.com
+Password : 123
+
 Overview
 
 This E-Library Management System is a full-stack application that allows users to browse, borrow, and return eBooks. It consists of a React frontend and a Node.js/Express backend, using MongoDB for data storage. The application provides a responsive and user-friendly interface.
