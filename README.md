@@ -1,5 +1,10 @@
-E-Library Management System
+sorry , due some technical issue there is no backend folder not opening in github for backend code plz refer 
 
+backend repo link : https://github.com/lokeshshinde500/Library-system-Backend
+
+frondend repo link : https://github.com/lokeshshinde500/Library-system-frontend
+
+E-Library Management System
 Demo credentials : for Login
 
 Email : lokeshinde500@gmail.com
